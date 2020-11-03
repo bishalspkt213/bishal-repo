@@ -3,3 +3,10 @@
     padding: 0%;
     box-sizing: border-box;
 }
+
+.bg-img {
+    background-image: url ("pexels-photo-1365795.jpeg");
+    min-height: 380px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
